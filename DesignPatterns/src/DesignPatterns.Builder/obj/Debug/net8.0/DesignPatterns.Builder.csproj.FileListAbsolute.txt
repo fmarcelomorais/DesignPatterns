@@ -1,0 +1,11 @@
+F:\workspace\DotNet\DesignPatterns\DesignPatterns\src\DesignPatterns.Builder\bin\Debug\net8.0\DesignPatterns.Builder.deps.json
+F:\workspace\DotNet\DesignPatterns\DesignPatterns\src\DesignPatterns.Builder\bin\Debug\net8.0\DesignPatterns.Builder.dll
+F:\workspace\DotNet\DesignPatterns\DesignPatterns\src\DesignPatterns.Builder\bin\Debug\net8.0\DesignPatterns.Builder.pdb
+F:\workspace\DotNet\DesignPatterns\DesignPatterns\src\DesignPatterns.Builder\obj\Debug\net8.0\DesignPatterns.Builder.GeneratedMSBuildEditorConfig.editorconfig
+F:\workspace\DotNet\DesignPatterns\DesignPatterns\src\DesignPatterns.Builder\obj\Debug\net8.0\DesignPatterns.Builder.AssemblyInfoInputs.cache
+F:\workspace\DotNet\DesignPatterns\DesignPatterns\src\DesignPatterns.Builder\obj\Debug\net8.0\DesignPatterns.Builder.AssemblyInfo.cs
+F:\workspace\DotNet\DesignPatterns\DesignPatterns\src\DesignPatterns.Builder\obj\Debug\net8.0\DesignPatterns.Builder.csproj.CoreCompileInputs.cache
+F:\workspace\DotNet\DesignPatterns\DesignPatterns\src\DesignPatterns.Builder\obj\Debug\net8.0\DesignPatterns.Builder.dll
+F:\workspace\DotNet\DesignPatterns\DesignPatterns\src\DesignPatterns.Builder\obj\Debug\net8.0\refint\DesignPatterns.Builder.dll
+F:\workspace\DotNet\DesignPatterns\DesignPatterns\src\DesignPatterns.Builder\obj\Debug\net8.0\DesignPatterns.Builder.pdb
+F:\workspace\DotNet\DesignPatterns\DesignPatterns\src\DesignPatterns.Builder\obj\Debug\net8.0\ref\DesignPatterns.Builder.dll
